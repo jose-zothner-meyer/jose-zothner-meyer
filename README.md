@@ -1,27 +1,31 @@
 <!--
-    INNOVATIVE & VISUAL GITHUB PROFILE README TEMPLATE
+    DYNAMIC GITHUB PROFILE README
     Customized for jose-zothner-meyer
-    (No GitHub Stats, Snake, or Coding Activity sections)
+    (No GitHub Stats, Snake, or Coding Activity)
 -->
 
+<!-- TOP BANNER / HEADER GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Banner GIF" width="600">
+</p>
+
+<!-- WELCOME HEADING WITH DYNAMIC TYPING -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hello, I'm Jose Zothner Meyer!
+  <span>
+    <a href="https://github.com/jose-zothner-meyer">
+      <!-- Adjust the typing text as you wish. -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=28&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B%2C+I'm+Jose+Zothner+Meyer;Python+Back-End+%7C+ML+Engineer;Data+Science+Enthusiast;Polyglot+and+Data-Driven;Welcome+to+My+GitHub!">
+    </a>
+  </span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center">
-  <a href="https://github.com/jose-zothner-meyer">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&lines=Python+Back-End+Engineer;Data+Science+Enthusiast;ML+Engineer;Always+Learning+New+Things;Let's+Build+Something+Amazing%21">
-  </a>
-</p>
-
-<!-- BADGES / SOCIAL LINKS -->
+<!-- SOCIAL / FOLLOW BUTTONS -->
 <p align="center">
   <a href="https://github.com/jose-zothner-meyer?tab=followers">
     <img src="https://img.shields.io/github/followers/jose-zothner-meyer?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
-  <!-- If you have other social media channels to share, add them below. -->
 </p>
 
 ---
@@ -31,13 +35,18 @@
 
 > **Dynamic, polyglot and data-driven professional with a history of surpassing revenue targets and accelerating business growth. Highly adept at cultivating long-term customer relationships, uncovering new market opportunities, and leveraging strategic insights via programming expertise. Combines an in-depth understanding of commodity market trends and customer needs with exceptional communication skills to effectively articulate product value.**
 
-- :computer: I specialize in **Python back-end programming**, with a focus on **Data Science** and **Machine Learning Engineering**.  
-- :rocket: Currently building projects that leverage **ML**, **AI**, and scalable infrastructures.  
-- :thinking: Exploring **PyTorch**, **FastAPI**, and advanced **Kubernetes** deployments.  
-- :handshake: Always open to **collaborating** on innovative and challenging data-related or ML-based projects.  
-- :zap: Fun Fact: I love turning coffee-fueled coding sessions into machine learning breakthroughs!
+- :computer: **Python Back-End** & **Machine Learning Engineering** are my core specializations.  
+- :rocket: Building innovative projects leveraging **AI**, **ML**, and **cloud** infrastructures.  
+- :thinking: Currently experimenting with **PyTorch**, **FastAPI**, **Kubernetes**, and more.  
+- :handshake: Open to collaborating on interesting data-driven projects—just drop me a line!  
+- :coffee: **Fun Fact**: I transform coffee into quality code and ML breakthroughs.
 
 ---
+
+<!-- VISUAL DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1f1f.gif" width="350" alt="divider">
+</p>
 
 <!-- TECH STACK / FAVORITE TOOLS -->
 ## :toolbox: My Toolbox
@@ -46,7 +55,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <!-- BASH -->
+  <!-- Bash -->
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -70,6 +79,11 @@
 
 ---
 
+<!-- VISUAL DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1f1f.gif" width="350" alt="divider">
+</p>
+
 <!-- CONTACT -->
 ## :mailbox_with_mail: Get in Touch
 - **LinkedIn:** [Jose Meyer](https://www.linkedin.com/in/josemeyer/)
@@ -80,6 +94,10 @@
 </p>
 
 ---
+
+<!-- FOOTER / SIGN-OFF -->
 <p align="center">
-  Made with :heart: &nbsp;and lots of code.
+  Made with :heart: & lots of <strong>code</strong> 
+  <br>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50">
 </p>
