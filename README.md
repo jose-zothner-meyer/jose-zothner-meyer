@@ -4,9 +4,12 @@
     (No GitHub Stats, Snake, or Coding Activity)
 -->
 
-<!-- TOP BANNER / HEADER GIF -->
+<!-- TOP BANNER / HEADER IMAGE (Minimalistic Dashboard) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Banner GIF" width="600">
+  <!-- Replace the Unsplash link below with any other modern/minimalistic dashboard image URL you like -->
+  <img src="https://images.unsplash.com/photo-1661340177168-06d2ff0ed247?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDl8fG1pbmltYWxpc3RpYyUyMGRhc2hib2FyZHxlbnwwfHx8fDE2OTIwNzE4Nzd8MA&ixlib=rb-4.0.3&w=2000" 
+       alt="Minimalistic Dashboard" 
+       width="600">
 </p>
 
 <!-- WELCOME HEADING WITH DYNAMIC TYPING -->
