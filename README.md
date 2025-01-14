@@ -89,7 +89,7 @@
 
 <!-- CONTACT -->
 ## :mailbox_with_mail: Get in Touch
-- **LinkedIn:** [Jose Meyer](https://www.linkedin.com/in/josemeyer/)
+- **LinkedIn:** [Jose Zothner Meyer](https://www.linkedin.com/in/josemeyer/)
 - **Email:** [zothner.meyer.jose@gmail.com](mailto:zothner.meyer.jose@gmail.com)
 
 <p align="center">
